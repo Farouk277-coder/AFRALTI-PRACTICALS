@@ -6,7 +6,7 @@ mydb = mysql.connector.connect(
   host="13.50.241.8:3306",
   username="root",
   password="password",
-  database="smart_water_dispencer"
+  database="smart_water_dispenser"
 )
 
 mycursor = mydb.cursor()
