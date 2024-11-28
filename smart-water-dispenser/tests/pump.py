@@ -10,7 +10,7 @@ GPIO.setup(trigger_pin, GPIO.OUT)
 
 def send_trigger_signal():
     GPIO.output(trigger_pin, GPIO.HIGH)
-    time.sleep(0.00001)
+    time.sleep(2)
     GPIO.output(trigger_pin, GPIO.LOW)
-    
+
 send_trigger_signal()
