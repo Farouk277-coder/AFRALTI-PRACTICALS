@@ -58,4 +58,6 @@ Components
    connect also the jumper cables to the ground and power source of the Raspberry Pi and back to the breadboard.
    
 3. Pump Control: If the distance is less than a certain threshold, the relay is activated to turn on the pump. Otherwise, the pump is turned off.
+   
+4. Loop: Continuously measures the distance and controls the pump.
   
