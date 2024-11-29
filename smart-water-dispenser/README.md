@@ -1,4 +1,5 @@
-IDT AUTOMATED WATER DISPENSER.
+                IDT AUTOMATED WATER DISPENSER.
+
 Group members
 Farouk Rashid.
 Mathew Muthee.
