@@ -39,6 +39,18 @@ Components
 
 * Timestamp - time at which data was recorded
 
+   Operation:
+
+* When a hand is placed near the ultrasonic sensor, the sensor detects the object and sends a signal to the Arduino.
+   
+* The Arduino processes the signal and calculates the distance.
+   
+* If the distance is within the set threshold, the Arduino activates the relay, which in turn switches on the water pump.
+  
+* Water is dispensed until the hand is removed.
+  
+* Once the hand is removed, the sensor no longer detects the object, and the Arduino deactivates the relay, stopping the water flow.
+
     Steps:
 1. GPIO Pin Setup: Configures the GPIO pins for the trigger, echo, and relay.
 
