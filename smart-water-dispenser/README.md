@@ -1,10 +1,16 @@
-IDT WATER TAP SENSOR
+IDT AUTOMATED WATER DISPENSER.
+Group members
+Farouk Rashid.
+Mathew Muthee.
+Bernard Ochieng.
+Daisy Nyamori.
+Micheal
 
 This IoT project aim to develop a smart water tap that automatically control water flow boud on hand proximity By utilizing a proximity server, the top will dispense water only when a band is detected, thereby conserving water and promoting hygiene
 
 Components
 
-* Rasberry Pi
+* Microcontroller: Rasberry Pi
 
 * Proximity senior-Detects presence of hand near the tap
 
@@ -20,4 +26,4 @@ Components
 
 * Timestamp - time at which data was recorded
 
-* Distance the distanu mesund by Proxiraita senm indicating the presence of absence of heal
+* 
