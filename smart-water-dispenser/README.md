@@ -19,18 +19,27 @@ Components
 
 * Microcontroller: Rasberry Pi
 
-* Proximity senior-Detects presence of hand near the tap
+* Proximity senior;Detects presence of hand near the tap
 
-* Relay module controls flow of electricity to the water ralre
+* Relay module; controls flow of electricity to the water valve
 
-* Water valve control water flow
+* Water valve; control water flow
 
-* Water dispense water flows form the tap Benefits of this project to the community.
+* Water dispenser; water flows form the tap
 
-* Water conservation Signitione reduction in wate
+* Benefits of this project to the community.
 
-* Improves Hygiene Minimizes physical contact us the top The database will be stening the following daty from the water sensor.
+* Water conservation.Significance reduction in water westage
+
+* Improves Hygiene. Minimizes physical contact us the tap.
+
+* The database will be stening the following data from the water sensor;
+
+* waterflow. In boolean form that is, on and off
 
 * Timestamp - time at which data was recorded
 
-* 
+    Steps:
+  
+  
+
