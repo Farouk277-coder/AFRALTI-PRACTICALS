@@ -56,6 +56,8 @@ Components
     Steps:
 1. GPIO Pin Setup: Configures the GPIO pins for the trigger, echo, and relay.
 
+! [] (connection of the AUTOMATED WATER DISPENSER)
+
 2. Connections: connect the jumper cables on the the Raspberry Pi and to the bread board on the pump and to the proximity sensor.
    connect also the jumper cables to the ground and power source of the Raspberry Pi and back to the breadboard.
    
