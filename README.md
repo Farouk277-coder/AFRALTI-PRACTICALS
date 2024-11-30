@@ -1,6 +1,6 @@
      IOT AUTOMATED WATER DISPENSER.
 
-Group members
+Group 1 members 
 
 Farouk Rashid.
 
