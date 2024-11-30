@@ -12,6 +12,8 @@ Daisy Nyamori.
 
 Micheal
 
+Christine Juma
+
       OVERVIEW.
 This IoT project aim to develop a smart water tap that automatically control water flow boud on hand proximity By utilizing a proximity server, the top will dispense water only when a band is detected, thereby conserving water and promoting hygiene
 
