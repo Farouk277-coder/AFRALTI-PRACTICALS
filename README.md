@@ -62,7 +62,7 @@ Components
 2. Connections: connect the jumper cables on the the Raspberry Pi and to the bread board on the pump and to the proximity sensor.
    connect also the jumper cables to the ground and power source of the Raspberry Pi and back to the breadboard.
 
-![connection of the AUTOMATED WATER DISPENSER](https://github.com/user-attachments/assets/0d6b0841-6259-4500-a46b-54209142107e)
+![Connection of the jumper cables](https://github.com/user-attachments/assets/060b69a6-2151-498c-bd0b-b786cc8b265a)
 
    
 4. Pump Control: If the distance is less than a certain threshold, the relay is activated to turn on the pump. Otherwise, the pump is turned off.
